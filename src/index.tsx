@@ -5,4 +5,4 @@ import App from './App';
 // type Foo = JSX.IntrinsicAttributes;
 // ↑IntrinsicAttributesを調べてみる
 
-ReactDOM.render(<App message="Hello, React!"/>, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
